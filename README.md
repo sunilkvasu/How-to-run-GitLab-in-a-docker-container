@@ -66,7 +66,7 @@ STEP-4: Work with some git command line
 
 
 
-STEP-4: Backup and Restore of GitLab
+STEP-5: Backup and Restore of GitLab
 
 	/usr/bin/docker exec -i gitlab-sunil /opt/gitlab/bin/gitlab-rake \
 	gitlab:backup:create
