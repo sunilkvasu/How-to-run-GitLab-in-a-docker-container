@@ -1,20 +1,5 @@
 # How-to-run-GitLab-in-a-docker-container
 
-> Install Docker engine
-
-> Pull “GitLab” docker image from docker hub
-
-> Run “GitLab” docker container
-
-> Create a sample project in GitLab
-
-> Work with “git” command line
-
-> Take a backup of GitLab
-
-> Restore GitLab from the backup
-
-
 
 STEP-1: Install and start docker engine
 
